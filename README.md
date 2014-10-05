@@ -20,5 +20,5 @@ Then setup up the database (you only need to do this once!):
 
 Then run the server:
 
-  docker run -P --link=opennms-postgres:postgres -d zenlambda/opennms /dockerexec/install
+  docker run -P --link=opennms-postgres:postgres -d zenlambda/opennms /dockerexec/run
 
