@@ -1,6 +1,8 @@
 # Docker OpenNMS
 
-A Dockerfile for building an OpenNMS docker container
+A Dockerfile for building an OpenNMS docker container.
+
+The images are host on [dockerhub](https://registry.hub.docker.com/u/zenlambda/opennms/).
 
 # Building
 
